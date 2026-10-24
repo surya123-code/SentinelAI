@@ -1,0 +1,17 @@
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Build outputs
+bin/
+dist/
+*.exe
+*.test
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
